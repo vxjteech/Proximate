@@ -1,8 +1,13 @@
-Thank you for using our template!
+**PŘIJÍMAČKY NA SŠ - EXTRA ZÁJEM O OBOR**
+****
+> Proximate Website
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+- Dokončená webová stránka herního studia
+- **GithubPages je polovičně funkční**, template se z nějakého důvodu na stránku nenahrál, proto obsahuje jen jednoduché <p> odstavce atd. Lze znovu otevřít ve Visual Studio Code a nahrát přes **Live Server plugin**, kde pak soubory fungují plně.
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+> [!NOTE]
+> HTML, CSS
+
+> [!IMPORTANT]
+> Prvně jsem použil template, ten jsem však masivně přepracoval a upravil každý detail.
