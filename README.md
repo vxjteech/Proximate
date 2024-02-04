@@ -7,7 +7,7 @@
 
 
 > [!NOTE]
-> HTML, CSS
+> HTML
 
 > [!IMPORTANT]
 > Prvně jsem použil template, ten jsem však masivně přepracoval a upravil každý detail.
